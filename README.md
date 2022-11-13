@@ -124,13 +124,15 @@ np.mean(predict(res.x,X)==y)
 ### Sigmoid Function :
 ![op](./ml55.png)
 ### Gradient Values:
+### X_train_grad value :
 ![op](./ml56.png)
+### Y_train_grad value :
 ![op](./ml57.png)
 ### Regression values:
 ![op](./ml58.png)
 ### Decision Boundary :
 ![op](./ml59.png)
-
+### Proability value :
 ![op](./ml510.png)
 ### Prediction Value:
 ![op](./ml511.png)
